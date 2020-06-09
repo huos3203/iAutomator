@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>409.2</string>
+	<string>492</string>
 	<key>AMApplicationVersion</key>
-	<string>2.5</string>
+	<string>2.10</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -28,7 +28,7 @@
 				<string>2.1.1</string>
 				<key>AMApplication</key>
 				<array>
-					<string>Finder</string>
+					<string>访达</string>
 				</array>
 				<key>AMParameterProperties</key>
 				<dict/>
@@ -46,11 +46,11 @@
 				<key>ActionBundlePath</key>
 				<string>/System/Library/Automator/Get Selected Finder Items 2.action</string>
 				<key>ActionName</key>
-				<string>Get Selected Finder Items</string>
+				<string>获取所选的访达项目</string>
 				<key>ActionParameters</key>
 				<dict/>
 				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.Get_Selected_Finder_Items_2</string>
+				<string>com.apple.Automator.GetSelectedFinderItems2</string>
 				<key>CFBundleVersion</key>
 				<string>2.1.1</string>
 				<key>CanShowSelectedItemsWhenRun</key>
@@ -97,7 +97,7 @@
 				<string>v.1.0.2</string>
 				<key>AMApplication</key>
 				<array>
-					<string>Automator</string>
+					<string>自动操作</string>
 				</array>
 				<key>AMParameterProperties</key>
 				<dict>
@@ -125,14 +125,14 @@
 				<key>ActionBundlePath</key>
 				<string>/System/Library/Automator/Set Value of Variable.action</string>
 				<key>ActionName</key>
-				<string>Set Value of Variable</string>
+				<string>设定变量的值</string>
 				<key>ActionParameters</key>
 				<dict>
 					<key>variableUUID</key>
 					<string>439B0192-97F5-4ACF-9602-2454D07F90EB</string>
 				</dict>
 				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.Set_Value_of_Variable</string>
+				<string>com.apple.Automator.SetValueofVariable</string>
 				<key>CFBundleVersion</key>
 				<string>1.0.2</string>
 				<key>CanShowSelectedItemsWhenRun</key>
@@ -149,11 +149,11 @@
 				<string>D3FB90A4-3684-4E82-A750-0E59DB5E7EA4</string>
 				<key>Keywords</key>
 				<array>
-					<string>variable</string>
-					<string>binding</string>
-					<string>input</string>
-					<string>output</string>
-					<string>storage</string>
+					<string>变量</string>
+					<string>绑定</string>
+					<string>输入</string>
+					<string>输出</string>
+					<string>储存</string>
 				</array>
 				<key>OutputUUID</key>
 				<string>558B8E96-2944-4454-A1E3-33F3874F0A6D</string>
@@ -180,14 +180,14 @@
 					</dict>
 				</dict>
 				<key>isViewVisible</key>
-				<false/>
+				<true/>
 				<key>location</key>
-				<string>239.500000:154.000000</string>
+				<string>562.500000:293.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>action</key>
@@ -207,7 +207,7 @@
 				<string>v.1.0.2</string>
 				<key>AMApplication</key>
 				<array>
-					<string>Automator</string>
+					<string>自动操作</string>
 				</array>
 				<key>AMParameterProperties</key>
 				<dict>
@@ -235,14 +235,14 @@
 				<key>ActionBundlePath</key>
 				<string>/System/Library/Automator/Get Value of Variable.action</string>
 				<key>ActionName</key>
-				<string>Get Value of Variable</string>
+				<string>获得变量的值</string>
 				<key>ActionParameters</key>
 				<dict>
 					<key>variableUUID</key>
 					<string>439B0192-97F5-4ACF-9602-2454D07F90EB</string>
 				</dict>
 				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.Get_Value_of_Variable</string>
+				<string>com.apple.Automator.GetValueofVariable</string>
 				<key>CFBundleVersion</key>
 				<string>1.0.2</string>
 				<key>CanShowSelectedItemsWhenRun</key>
@@ -261,11 +261,11 @@
 				<string>8FA3AE09-A8C9-4FFB-9198-5B78FAEC0C05</string>
 				<key>Keywords</key>
 				<array>
-					<string>variable</string>
-					<string>binding</string>
-					<string>input</string>
-					<string>output</string>
-					<string>storage</string>
+					<string>变量</string>
+					<string>绑定</string>
+					<string>输入</string>
+					<string>输出</string>
+					<string>储存</string>
 				</array>
 				<key>OutputUUID</key>
 				<string>EFBF9EC4-CB82-4EBC-9A1C-636689FABF27</string>
@@ -292,14 +292,14 @@
 					</dict>
 				</dict>
 				<key>isViewVisible</key>
-				<false/>
+				<true/>
 				<key>location</key>
-				<string>239.500000:196.000000</string>
+				<string>562.500000:395.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Get Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>action</key>
@@ -319,7 +319,7 @@
 				<string>2.0.3</string>
 				<key>AMApplication</key>
 				<array>
-					<string>Automator</string>
+					<string>自动操作</string>
 				</array>
 				<key>AMParameterProperties</key>
 				<dict>
@@ -346,7 +346,7 @@
 				<key>ActionBundlePath</key>
 				<string>/System/Library/Automator/Run Shell Script.action</string>
 				<key>ActionName</key>
-				<string>Run Shell Script</string>
+				<string>运行Shell脚本</string>
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
@@ -413,9 +413,9 @@ done;
 				<key>Keywords</key>
 				<array>
 					<string>Shell</string>
-					<string>Script</string>
-					<string>Command</string>
-					<string>Run</string>
+					<string>脚本</string>
+					<string>命令</string>
+					<string>运行</string>
 					<string>Unix</string>
 				</array>
 				<key>OutputUUID</key>
@@ -446,9 +446,9 @@ done;
 					<key>1</key>
 					<dict>
 						<key>default value</key>
-						<string></string>
+						<false/>
 						<key>name</key>
-						<string>source</string>
+						<string>CheckedForUserDefaultShell</string>
 						<key>required</key>
 						<string>0</string>
 						<key>type</key>
@@ -459,9 +459,9 @@ done;
 					<key>2</key>
 					<dict>
 						<key>default value</key>
-						<false/>
+						<string></string>
 						<key>name</key>
-						<string>CheckedForUserDefaultShell</string>
+						<string>source</string>
 						<key>required</key>
 						<string>0</string>
 						<key>type</key>
@@ -497,33 +497,33 @@ done;
 					</dict>
 				</dict>
 				<key>isViewVisible</key>
-				<false/>
+				<true/>
 				<key>location</key>
-				<string>239.500000:238.000000</string>
+				<string>562.500000:874.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
-			<false/>
+			<true/>
 		</dict>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>81F1725E-5D8F-4DB2-938F-F4F4B4810CB0</key>
+		<key>16801A87-9557-4AC1-AA07-F2EEE4A5252E</key>
 		<dict>
 			<key>from</key>
 			<string>A11D77B6-4B2D-4990-9AFB-6E0BBC145375 - A11D77B6-4B2D-4990-9AFB-6E0BBC145375</string>
 			<key>to</key>
 			<string>CFB0951C-1076-4028-92A0-490967D87A87 - CFB0951C-1076-4028-92A0-490967D87A87</string>
 		</dict>
-		<key>B7BE26CB-AD13-41C0-8407-F762E18B7BB2</key>
+		<key>9271A729-A2AC-42FA-B677-F11EAA588172</key>
 		<dict>
 			<key>from</key>
 			<string>373E06E1-FEF9-4E70-9172-4F8ADA9D86BE - 373E06E1-FEF9-4E70-9172-4F8ADA9D86BE</string>
 			<key>to</key>
 			<string>182A2489-E9F1-46BF-AC39-72829EF82D8C - 182A2489-E9F1-46BF-AC39-72829EF82D8C</string>
 		</dict>
-		<key>CBD81BC4-F2E6-4873-9A88-AE4A84F200ED</key>
+		<key>B683BF9C-7DDE-47BB-8462-2FA0B65F2305</key>
 		<dict>
 			<key>from</key>
 			<string>182A2489-E9F1-46BF-AC39-72829EF82D8C - 182A2489-E9F1-46BF-AC39-72829EF82D8C</string>
@@ -544,6 +544,27 @@ done;
 	</array>
 	<key>workflowMetaData</key>
 	<dict>
+		<key>applicationBundleID</key>
+		<string>com.apple.finder</string>
+		<key>applicationBundleIDsByPath</key>
+		<dict>
+			<key>/System/Library/CoreServices/Finder.app</key>
+			<string>com.apple.finder</string>
+		</dict>
+		<key>applicationPath</key>
+		<string>/System/Library/CoreServices/Finder.app</string>
+		<key>applicationPaths</key>
+		<array>
+			<string>/System/Library/CoreServices/Finder.app</string>
+		</array>
+		<key>inputTypeIdentifier</key>
+		<string>com.apple.Automator.fileSystemObject.image</string>
+		<key>outputTypeIdentifier</key>
+		<string>com.apple.Automator.nothing</string>
+		<key>presentationMode</key>
+		<integer>15</integer>
+		<key>processesInput</key>
+		<integer>0</integer>
 		<key>serviceApplicationBundleID</key>
 		<string>com.apple.finder</string>
 		<key>serviceApplicationPath</key>
@@ -553,6 +574,10 @@ done;
 		<key>serviceOutputTypeIdentifier</key>
 		<string>com.apple.Automator.nothing</string>
 		<key>serviceProcessesInput</key>
+		<integer>0</integer>
+		<key>systemImageName</key>
+		<string>NSActionTemplate</string>
+		<key>useAutomaticInputType</key>
 		<integer>0</integer>
 		<key>workflowTypeIdentifier</key>
 		<string>com.apple.Automator.servicesMenu</string>
