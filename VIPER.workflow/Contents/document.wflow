@@ -37,7 +37,7 @@
 						<key>isPathPopUp</key>
 						<false/>
 						<key>selectedVariableUUID</key>
-						<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+						<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 						<key>variableUUIDsInMenu</key>
 						<array/>
 					</dict>
@@ -60,14 +60,14 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>variableUUID</key>
-					<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+					<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.SetValueofVariable</string>
 				<key>CFBundleVersion</key>
 				<string>1.0.2</string>
 				<key>CanShowSelectedItemsWhenRun</key>
-				<false/>
+				<true/>
 				<key>CanShowWhenRun</key>
 				<true/>
 				<key>Category</key>
@@ -76,8 +76,10 @@
 				</array>
 				<key>Class Name</key>
 				<string>Set_Value_of_Variable</string>
+				<key>Disabled</key>
+				<false/>
 				<key>InputUUID</key>
-				<string>26CBF6E5-9AC2-4D9F-9328-259234471466</string>
+				<string>F2163BB4-7C9D-45AB-8F2E-43AB7C07241D</string>
 				<key>Keywords</key>
 				<array>
 					<string>变量</string>
@@ -87,9 +89,9 @@
 					<string>储存</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>A9AD1DCD-B96A-402D-8637-1737811EDB38</string>
+				<string>C58E8622-58AD-4915-8F78-37805FEC6C8D</string>
 				<key>UUID</key>
-				<string>DDEDF36D-0937-40E7-ADB4-249EBA9BFA3E</string>
+				<string>0D3FF15F-7D73-48D3-8F5B-A95C0E3EE771</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Automator</string>
@@ -110,6 +112,8 @@
 						<string>0</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -146,7 +150,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>01 - Docs</string>
+							<string>Views</string>
 						</array>
 					</dict>
 					<key>targetLocation</key>
@@ -154,10 +158,10 @@
 						<key>isPathPopUp</key>
 						<true/>
 						<key>selectedVariableUUID</key>
-						<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+						<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 						<key>variableUUIDsInMenu</key>
 						<array>
-							<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+							<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 						</array>
 					</dict>
 				</dict>
@@ -177,9 +181,9 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>newName</key>
-					<string>01 - Docs</string>
+					<string>Views</string>
 					<key>targetLocation</key>
-					<string></string>
+					<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.MakeNewFolder</string>
@@ -198,7 +202,7 @@
 				<key>IgnoresInput</key>
 				<true/>
 				<key>InputUUID</key>
-				<string>41D75050-2A6E-4436-BE4C-90484451A26B</string>
+				<string>A50E29FB-D3E5-4ACB-B31F-789EF06BBD81</string>
 				<key>Keywords</key>
 				<array>
 					<string>文件夹</string>
@@ -207,9 +211,9 @@
 					<string>新建</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>935ACFB7-FD20-4049-B89A-82549E6CE4F8</string>
+				<string>F2E110C3-3973-4DB9-AE31-E5A847FE005C</string>
 				<key>UUID</key>
-				<string>BBE403A2-59BD-408B-A872-E94EB19EA015</string>
+				<string>88119A87-C098-4BDD-8E10-670ED1E7BC25</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Finder</string>
@@ -243,6 +247,8 @@
 						<string>1</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -279,7 +285,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>02 - Guidelines &amp; Resources</string>
+							<string>Presenter</string>
 						</array>
 					</dict>
 					<key>targetLocation</key>
@@ -287,10 +293,10 @@
 						<key>isPathPopUp</key>
 						<true/>
 						<key>selectedVariableUUID</key>
-						<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+						<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 						<key>variableUUIDsInMenu</key>
 						<array>
-							<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+							<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 						</array>
 					</dict>
 				</dict>
@@ -310,9 +316,9 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>newName</key>
-					<string>02 - Guidelines &amp; Resources</string>
+					<string>Presenter</string>
 					<key>targetLocation</key>
-					<string></string>
+					<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.MakeNewFolder</string>
@@ -331,7 +337,7 @@
 				<key>IgnoresInput</key>
 				<true/>
 				<key>InputUUID</key>
-				<string>226CC6E8-05B7-4759-9E9A-22E816C63C00</string>
+				<string>A3D2858D-FDB7-4EFE-8AE1-7F6A08A15AFB</string>
 				<key>Keywords</key>
 				<array>
 					<string>文件夹</string>
@@ -340,9 +346,9 @@
 					<string>新建</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>0427B6A3-2C2C-4018-A4FA-49ECC4FD00D8</string>
+				<string>56476E76-45DD-44E4-AAD5-AD766B920DC2</string>
 				<key>UUID</key>
-				<string>D90DB188-281E-4958-B488-D549FEEAC447</string>
+				<string>C408A51C-6356-4B85-8258-ACEB6AD4DD7C</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Finder</string>
@@ -376,6 +382,8 @@
 						<string>1</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -412,7 +420,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>03 - Wireframes &amp; User_Flows</string>
+							<string>Interactor</string>
 						</array>
 					</dict>
 					<key>targetLocation</key>
@@ -420,10 +428,10 @@
 						<key>isPathPopUp</key>
 						<true/>
 						<key>selectedVariableUUID</key>
-						<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+						<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 						<key>variableUUIDsInMenu</key>
 						<array>
-							<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+							<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 						</array>
 					</dict>
 				</dict>
@@ -443,9 +451,9 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>newName</key>
-					<string>03 - Wireframes &amp; User_Flows</string>
+					<string>Interactor</string>
 					<key>targetLocation</key>
-					<string></string>
+					<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.MakeNewFolder</string>
@@ -464,7 +472,7 @@
 				<key>IgnoresInput</key>
 				<true/>
 				<key>InputUUID</key>
-				<string>0A02ACC8-18E6-4ABA-8DB2-4B9B4A56E2FD</string>
+				<string>1F600798-BDA8-4ABA-AAEB-056B8BC9DB63</string>
 				<key>Keywords</key>
 				<array>
 					<string>文件夹</string>
@@ -473,9 +481,9 @@
 					<string>新建</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>19F55C38-F8A7-4C91-922A-9E44411A2E9B</string>
+				<string>C414D2F9-6E33-40FD-8F5B-3C965A61E22B</string>
 				<key>UUID</key>
-				<string>39B78161-E0B7-4BEE-A4BD-4A657DFF22C5</string>
+				<string>6E3C7D14-FCF1-4743-8E27-F5CBDAA7A28B</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Finder</string>
@@ -509,6 +517,8 @@
 						<string>1</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -545,7 +555,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>04 - Sources</string>
+							<string>Entity</string>
 						</array>
 					</dict>
 					<key>targetLocation</key>
@@ -553,10 +563,10 @@
 						<key>isPathPopUp</key>
 						<true/>
 						<key>selectedVariableUUID</key>
-						<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+						<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 						<key>variableUUIDsInMenu</key>
 						<array>
-							<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+							<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 						</array>
 					</dict>
 				</dict>
@@ -576,9 +586,9 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>newName</key>
-					<string>04 - Sources</string>
+					<string>Entity</string>
 					<key>targetLocation</key>
-					<string></string>
+					<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.MakeNewFolder</string>
@@ -597,7 +607,7 @@
 				<key>IgnoresInput</key>
 				<true/>
 				<key>InputUUID</key>
-				<string>F2F91A0A-1885-4AD9-8A31-9E09DAB8508C</string>
+				<string>69E97377-9317-4E55-90EC-8F683557DA22</string>
 				<key>Keywords</key>
 				<array>
 					<string>文件夹</string>
@@ -606,9 +616,9 @@
 					<string>新建</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>98123E6F-ECDD-43B3-87E8-A528AEB776D0</string>
+				<string>D24A4576-82F6-409C-B432-2F53B910A386</string>
 				<key>UUID</key>
-				<string>16CE9FD5-FA6E-47EC-A053-52D3163587E9</string>
+				<string>74793CBD-9067-4FCD-954C-616FCB0968E3</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Finder</string>
@@ -642,6 +652,8 @@
 						<string>1</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -678,7 +690,7 @@
 					<dict>
 						<key>tokenizedValue</key>
 						<array>
-							<string>05 - Screen Mockups</string>
+							<string>Wireframe</string>
 						</array>
 					</dict>
 					<key>targetLocation</key>
@@ -686,10 +698,10 @@
 						<key>isPathPopUp</key>
 						<true/>
 						<key>selectedVariableUUID</key>
-						<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+						<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 						<key>variableUUIDsInMenu</key>
 						<array>
-							<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+							<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 						</array>
 					</dict>
 				</dict>
@@ -709,9 +721,9 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>newName</key>
-					<string>05 - Screen Mockups</string>
+					<string>Wireframe</string>
 					<key>targetLocation</key>
-					<string></string>
+					<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.MakeNewFolder</string>
@@ -730,7 +742,7 @@
 				<key>IgnoresInput</key>
 				<true/>
 				<key>InputUUID</key>
-				<string>E417AA5A-268C-4D80-B164-1F4230FBD131</string>
+				<string>6CE810E4-D8DD-467A-9888-24B0DF9C5B50</string>
 				<key>Keywords</key>
 				<array>
 					<string>文件夹</string>
@@ -739,9 +751,9 @@
 					<string>新建</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>B15BC3B5-2E99-4B75-9B04-4ACBE221A3AF</string>
+				<string>268D98A4-A589-410D-BF73-F2E6AB9F1DBB</string>
 				<key>UUID</key>
-				<string>4036981A-9978-4B21-A211-83D0D16207BF</string>
+				<string>9D96DE67-E62E-41BE-AE85-100C07F03316</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Finder</string>
@@ -775,6 +787,8 @@
 						<string>1</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -785,470 +799,50 @@
 			<key>isViewVisible</key>
 			<true/>
 		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<true/>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.path</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>v.1.2.2</string>
-				<key>AMApplication</key>
-				<array>
-					<string>访达</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>newName</key>
-					<dict>
-						<key>tokenizedValue</key>
-						<array>
-							<string>06 - Assets</string>
-						</array>
-					</dict>
-					<key>targetLocation</key>
-					<dict>
-						<key>isPathPopUp</key>
-						<true/>
-						<key>selectedVariableUUID</key>
-						<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
-						<key>variableUUIDsInMenu</key>
-						<array>
-							<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
-						</array>
-					</dict>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>public.folder</string>
-					</array>
-				</dict>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/New Folder.action</string>
-				<key>ActionName</key>
-				<string>新建文件夹</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>newName</key>
-					<string>06 - Assets</string>
-					<key>targetLocation</key>
-					<string></string>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.MakeNewFolder</string>
-				<key>CFBundleVersion</key>
-				<string>1.2.2</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<true/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryFilesAndFolders</string>
-				</array>
-				<key>Class Name</key>
-				<string>NewFolderAction</string>
-				<key>IgnoresInput</key>
-				<true/>
-				<key>InputUUID</key>
-				<string>5B4300AB-6D03-4991-9B27-1DB6BFFFF3E1</string>
-				<key>Keywords</key>
-				<array>
-					<string>文件夹</string>
-					<string>创建</string>
-					<string>制作</string>
-					<string>新建</string>
-				</array>
-				<key>OutputUUID</key>
-				<string>8ABDBCC8-C6DA-4B1B-BBFA-F658B53E5B51</string>
-				<key>UUID</key>
-				<string>4F076303-1174-4371-8C08-BCE47993058E</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Finder</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>newName</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-					<key>1</key>
-					<dict>
-						<key>default value</key>
-						<string>~/Desktop</string>
-						<key>name</key>
-						<string>targetLocation</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>1</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>562.500000:1002.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/New Folder.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<true/>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.path</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>v.1.2.2</string>
-				<key>AMApplication</key>
-				<array>
-					<string>访达</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>newName</key>
-					<dict>
-						<key>tokenizedValue</key>
-						<array>
-							<string>07 - Specs</string>
-						</array>
-					</dict>
-					<key>targetLocation</key>
-					<dict>
-						<key>isPathPopUp</key>
-						<true/>
-						<key>selectedVariableUUID</key>
-						<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
-						<key>variableUUIDsInMenu</key>
-						<array>
-							<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
-						</array>
-					</dict>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>public.folder</string>
-					</array>
-				</dict>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/New Folder.action</string>
-				<key>ActionName</key>
-				<string>新建文件夹</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>newName</key>
-					<string>07 - Specs</string>
-					<key>targetLocation</key>
-					<string></string>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.MakeNewFolder</string>
-				<key>CFBundleVersion</key>
-				<string>1.2.2</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<true/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryFilesAndFolders</string>
-				</array>
-				<key>Class Name</key>
-				<string>NewFolderAction</string>
-				<key>IgnoresInput</key>
-				<true/>
-				<key>InputUUID</key>
-				<string>DC729A30-99BF-4A55-9047-9DED01F45522</string>
-				<key>Keywords</key>
-				<array>
-					<string>文件夹</string>
-					<string>创建</string>
-					<string>制作</string>
-					<string>新建</string>
-				</array>
-				<key>OutputUUID</key>
-				<string>61FB77B2-C65B-41DB-95B7-41FBCD51AC30</string>
-				<key>UUID</key>
-				<string>0C4C5686-84E0-47D8-AD44-C95E97705583</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Finder</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>newName</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-					<key>1</key>
-					<dict>
-						<key>default value</key>
-						<string>~/Desktop</string>
-						<key>name</key>
-						<string>targetLocation</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>1</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>562.500000:1131.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/New Folder.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<true/>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.path</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>v.1.2.2</string>
-				<key>AMApplication</key>
-				<array>
-					<string>访达</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>newName</key>
-					<dict>
-						<key>tokenizedValue</key>
-						<array>
-							<string>08 - Feedback &amp; Review</string>
-						</array>
-					</dict>
-					<key>targetLocation</key>
-					<dict>
-						<key>isPathPopUp</key>
-						<true/>
-						<key>selectedVariableUUID</key>
-						<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
-						<key>variableUUIDsInMenu</key>
-						<array>
-							<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
-						</array>
-					</dict>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>public.folder</string>
-					</array>
-				</dict>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/New Folder.action</string>
-				<key>ActionName</key>
-				<string>新建文件夹</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>newName</key>
-					<string>08 - Feedback &amp; Review</string>
-					<key>targetLocation</key>
-					<string></string>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.MakeNewFolder</string>
-				<key>CFBundleVersion</key>
-				<string>1.2.2</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<true/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryFilesAndFolders</string>
-				</array>
-				<key>Class Name</key>
-				<string>NewFolderAction</string>
-				<key>IgnoresInput</key>
-				<true/>
-				<key>InputUUID</key>
-				<string>517F7225-FC94-45A5-8F55-F6E9F67B111D</string>
-				<key>Keywords</key>
-				<array>
-					<string>文件夹</string>
-					<string>创建</string>
-					<string>制作</string>
-					<string>新建</string>
-				</array>
-				<key>OutputUUID</key>
-				<string>97510A18-1F00-4C39-94E1-07F43B80FE9A</string>
-				<key>UUID</key>
-				<string>0615D61E-89F7-4687-9822-B8F2D75F2A34</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Finder</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>newName</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-					<key>1</key>
-					<dict>
-						<key>default value</key>
-						<string>~/Desktop</string>
-						<key>name</key>
-						<string>targetLocation</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>1</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>562.500000:1260.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/New Folder.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>0538FA86-F091-49D6-9A79-0AF8A626C43C</key>
+		<key>0C5EB3C0-347B-4C95-9B9F-B04631835B28</key>
 		<dict>
 			<key>from</key>
-			<string>D90DB188-281E-4958-B488-D549FEEAC447 - D90DB188-281E-4958-B488-D549FEEAC447</string>
+			<string>88119A87-C098-4BDD-8E10-670ED1E7BC25 - 88119A87-C098-4BDD-8E10-670ED1E7BC25</string>
 			<key>to</key>
-			<string>39B78161-E0B7-4BEE-A4BD-4A657DFF22C5 - 39B78161-E0B7-4BEE-A4BD-4A657DFF22C5</string>
+			<string>C408A51C-6356-4B85-8258-ACEB6AD4DD7C - C408A51C-6356-4B85-8258-ACEB6AD4DD7C</string>
 		</dict>
-		<key>4B6FD131-0AC5-4CCE-A7D5-19744FC5193D</key>
+		<key>87562B7C-EA33-47CB-B88B-9C27E53AD1F1</key>
 		<dict>
 			<key>from</key>
-			<string>0C4C5686-84E0-47D8-AD44-C95E97705583 - 0C4C5686-84E0-47D8-AD44-C95E97705583</string>
+			<string>6E3C7D14-FCF1-4743-8E27-F5CBDAA7A28B - 6E3C7D14-FCF1-4743-8E27-F5CBDAA7A28B</string>
 			<key>to</key>
-			<string>0615D61E-89F7-4687-9822-B8F2D75F2A34 - 0615D61E-89F7-4687-9822-B8F2D75F2A34</string>
+			<string>74793CBD-9067-4FCD-954C-616FCB0968E3 - 74793CBD-9067-4FCD-954C-616FCB0968E3</string>
 		</dict>
-		<key>5B9DAF1C-089A-40F7-9DF3-B19B1F718CB8</key>
+		<key>9308EB62-D428-4579-836A-8F265167F497</key>
 		<dict>
 			<key>from</key>
-			<string>4036981A-9978-4B21-A211-83D0D16207BF - 4036981A-9978-4B21-A211-83D0D16207BF</string>
+			<string>74793CBD-9067-4FCD-954C-616FCB0968E3 - 74793CBD-9067-4FCD-954C-616FCB0968E3</string>
 			<key>to</key>
-			<string>4F076303-1174-4371-8C08-BCE47993058E - 4F076303-1174-4371-8C08-BCE47993058E</string>
+			<string>9D96DE67-E62E-41BE-AE85-100C07F03316 - 9D96DE67-E62E-41BE-AE85-100C07F03316</string>
 		</dict>
-		<key>88419251-47AD-4DAD-89E7-57A62042A5FF</key>
+		<key>D71334F9-1DF9-48C7-AACD-2DB52FF9E474</key>
 		<dict>
 			<key>from</key>
-			<string>DDEDF36D-0937-40E7-ADB4-249EBA9BFA3E - DDEDF36D-0937-40E7-ADB4-249EBA9BFA3E</string>
+			<string>C408A51C-6356-4B85-8258-ACEB6AD4DD7C - C408A51C-6356-4B85-8258-ACEB6AD4DD7C</string>
 			<key>to</key>
-			<string>BBE403A2-59BD-408B-A872-E94EB19EA015 - BBE403A2-59BD-408B-A872-E94EB19EA015</string>
+			<string>6E3C7D14-FCF1-4743-8E27-F5CBDAA7A28B - 6E3C7D14-FCF1-4743-8E27-F5CBDAA7A28B</string>
 		</dict>
-		<key>8AB35BF9-D359-4B49-89A8-91FDF24A26C0</key>
+		<key>FE19EECF-2CAD-49BD-B1C2-A772D7116860</key>
 		<dict>
 			<key>from</key>
-			<string>BBE403A2-59BD-408B-A872-E94EB19EA015 - BBE403A2-59BD-408B-A872-E94EB19EA015</string>
+			<string>0D3FF15F-7D73-48D3-8F5B-A95C0E3EE771 - 0D3FF15F-7D73-48D3-8F5B-A95C0E3EE771</string>
 			<key>to</key>
-			<string>D90DB188-281E-4958-B488-D549FEEAC447 - D90DB188-281E-4958-B488-D549FEEAC447</string>
-		</dict>
-		<key>A5F6187A-9168-4495-BE8F-222C7EA7194E</key>
-		<dict>
-			<key>from</key>
-			<string>4F076303-1174-4371-8C08-BCE47993058E - 4F076303-1174-4371-8C08-BCE47993058E</string>
-			<key>to</key>
-			<string>0C4C5686-84E0-47D8-AD44-C95E97705583 - 0C4C5686-84E0-47D8-AD44-C95E97705583</string>
-		</dict>
-		<key>D60794BC-677D-4C6D-BB48-103E8F305FE7</key>
-		<dict>
-			<key>from</key>
-			<string>16CE9FD5-FA6E-47EC-A053-52D3163587E9 - 16CE9FD5-FA6E-47EC-A053-52D3163587E9</string>
-			<key>to</key>
-			<string>4036981A-9978-4B21-A211-83D0D16207BF - 4036981A-9978-4B21-A211-83D0D16207BF</string>
-		</dict>
-		<key>FA3BDEF3-6E90-48F6-9946-08051C19ACA1</key>
-		<dict>
-			<key>from</key>
-			<string>39B78161-E0B7-4BEE-A4BD-4A657DFF22C5 - 39B78161-E0B7-4BEE-A4BD-4A657DFF22C5</string>
-			<key>to</key>
-			<string>16CE9FD5-FA6E-47EC-A053-52D3163587E9 - 16CE9FD5-FA6E-47EC-A053-52D3163587E9</string>
+			<string>88119A87-C098-4BDD-8E10-670ED1E7BC25 - 88119A87-C098-4BDD-8E10-670ED1E7BC25</string>
 		</dict>
 	</dict>
 	<key>variables</key>
 	<array>
 		<dict>
 			<key>UUID</key>
-			<string>6A1BDCA8-6289-4E9F-A24E-D2AE61938E50</string>
+			<string>3896107C-8F5E-4FEE-B8E1-D93169532201</string>
 			<key>identifier</key>
 			<string>com.apple.Automator.Variable.Path</string>
 			<key>name</key>
@@ -1291,7 +885,7 @@
 		<key>serviceProcessesInput</key>
 		<integer>0</integer>
 		<key>systemImageName</key>
-		<string>NSActionTemplate</string>
+		<string>NSTouchBarAdd</string>
 		<key>useAutomaticInputType</key>
 		<integer>0</integer>
 		<key>workflowTypeIdentifier</key>
